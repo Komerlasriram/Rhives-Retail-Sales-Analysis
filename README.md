@@ -1,4 +1,4 @@
-# 📊✨ Rhives Retail Sales Analysis – Power BI Project ✨📊
+# 📊✨ Rhives Retail Sales Analysis – Power BI Project ✨
 
 Welcome to my **Retail Sales Analysis Dashboard** project!  
 This project was created for **Rhives Technologies – Week 2 Internship**. 🚀  
