@@ -14,13 +14,6 @@ Here is the main dashboard from the Power BI report:
 
 <img width="1297" height="736" alt="image" src="https://github.com/user-attachments/assets/ebd380e3-224e-4d63-b770-0bbf265e3cec" />
 
-
-## 👨‍💻 Author
-
-**👤 Name:** Komerla Sriram  
-**📧 Gmail:** komerlasriram2002@gmail.com  
-**🔗 LinkedIn:** https://www.linkedin.com/in/komerlasriram/  
-**🐙 GitHub:** https://github.com/Komerlasriram  
 ---
 
 ## 🛍️📘 Project Overview
@@ -154,6 +147,15 @@ This project helped me improve skills in:
 - 🧮 DAX  
 - 🖥️ Dashboard Design  
 - 📈 Business Analytics  
+
+
+## 👨‍💻 Author
+
+**👤 Name:** Komerla Sriram  
+**📧 Gmail:** komerlasriram2002@gmail.com  
+**🔗 LinkedIn:** https://www.linkedin.com/in/komerlasriram/  
+**🐙 GitHub:** https://github.com/Komerlasriram  
+
 
 Thank you for reading! 😊  
 If you liked this project, please ⭐ star the repo! 🌟
