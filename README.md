@@ -12,8 +12,7 @@ Dataset: **Rhives_Retail_Project_DataSet** 📁🗂️
 
 Here is the main dashboard from the Power BI report:
 
-![Retail Sales Dashboard](<img width="1297" height="736" alt="image" src="https://github.com/user-attachments/assets/ebd380e3-224e-4d63-b770-0bbf265e3cec" />
-)
+![Retail Sales Dashboard]<img width="1297" height="736" alt="image" src="https://github.com/user-attachments/assets/ebd380e3-224e-4d63-b770-0bbf265e3cec" />
 
 
 ## 👨‍💻 Author
